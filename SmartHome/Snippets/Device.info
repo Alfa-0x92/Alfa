@@ -1,0 +1,8 @@
+This Device/Project Based On Arduino And Nextion Development Board
+
+This Project Is Not Intended For Industrial Use!
+
+For Production Use "$DEVICE", There You Will Find Full Device/Project Files ($x0001)
+
+x0001{ Like "Schematics", "User/Service Manuals", "BoardViews", And For Example "KICAD" Projects }
+DEVICE{ CodeName, Model, ID, Code }
